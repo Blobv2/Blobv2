@@ -1,16 +1,17 @@
-## Hi there 👋
+## 🚀 Projects
 
-<!--
-**Blobv2/Blobv2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📊 [Mandatory-2-DB — DISC Profiles API](https://github.com/HarunHursid/Mandatory-2-DB)
+A multi-database .NET Web API for managing DISC personality profiles across an organization.
 
-Here are some ideas to get you started:
+**Tech Stack:**
+- 🟦 **ASP.NET Core** — RESTful API
+- 🗄️ **SQL Server** — relational data (employees, companies, projects, tasks)
+- 🍃 **MongoDB** — document store mirror
+- 🔗 **Neo4j** — graph database for employee relationships
+- 🔐 JWT Authentication & Role-based Authorization
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Features:**
+- Full CRUD for employees, DISC profiles, projects, tasks, social events
+- Graph-based employee relationship mirroring
+- Stress tracking and task evaluation
+- Social event recommendations based on DISC profiles
