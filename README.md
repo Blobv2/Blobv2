@@ -1,9 +1,7 @@
 ## 🚀 Projects
 
-### 📊 [DataBase — DISC Profiles API](https://github.com/HarunHursid/Mandatory-2-DB)
+### 📊 [Database — DISC Profiles API](https://github.com/HarunHursid/Mandatory-2-DB)
 A full-stack **multi-database ASP.NET Core Web API** for managing DISC personality profiles across an organization — built as a mandatory database exam project. The system stores and mirrors data across three different database engines simultaneously: **SQL Server**, **MongoDB**, and **Neo4j**.
-
----
 
 📚 About DISC
 **DISC** is a behaviour assessment model identifying four personality types:
@@ -13,9 +11,10 @@ A full-stack **multi-database ASP.NET Core Web API** for managing DISC personali
 | **I** — Influence | 🟡 Yellow | Enthusiastic, social |
 | **S** — Steadiness | 🟢 Green | Supportive, calm |
 | **C** — Conscientiousness | 🔵 Blue | Analytical, detail-oriented |
+
+
 This system helps organisations match employees to projects and social events based on their personality type.
 
----
 
 ## 📦 Tech Stack
 | Layer | Technology |
@@ -30,7 +29,6 @@ This system helps organisations match employees to projects and social events ba
 | API Docs | Swagger / OpenAPI |
 | Env Config | DotNetEnv |
 
----
 
 ## ✨ Features
 🔐 **JWT Authentication** — register, login, role-based authorization (`Admin` / `Employee`)
@@ -48,19 +46,18 @@ This system helps organisations match employees to projects and social events ba
 
 <br>
 <br>
+<br>
 
 
-### 📊 [Top up - Software Developer - AAI](https://github.com/HarunHursid/AI_Eksamen)
+# 📊 [Top up - Software Developer - AAI](https://github.com/HarunHursid/AI_Eksamen)
 
-# 🏎️ AI Eksamen — Autonomous Racing Car
+## 🏎️ AI Eksamen — Autonomous Racing Car
 An AI exam project comparing three learning strategies for training a self-driving racing car in a custom **Pygame** simulation: a **Genetic Algorithm (NEAT)**, a **Deep Reinforcement Learning (DDQN)** agent, and a **Hybrid** approach that combines both.
 
----
 
 ## 🎬 Overview
 A car equipped with 5 radar sensors learns to navigate a closed race track through 10 checkpoints and back to the finish line. Three separate AI approaches are trained independently and then evaluated head-to-head on a separate test track.
 
----
 
 ## ✨ Approaches
 
@@ -84,7 +81,6 @@ A car equipped with 5 radar sensors learns to navigate a closed race track throu
 - Combines the exploration strength of evolution with the sample efficiency of deep RL
 - Best models saved to `hybrid_best_ddqn.keras` and `hybrid_best_genome.pkl`
 
----
 
 ## 📦 Tech Stack
 | Component | Technology |
@@ -104,3 +100,7 @@ A car equipped with 5 radar sensors learns to navigate a closed race track throu
 ![Pygame](https://img.shields.io/badge/Pygame-000000?style=flat&logo=pygame&logoColor=white).
 ![NEAT](https://img.shields.io/badge/NEAT--Python-76B900?style=flat&logo=dna&logoColor=white).
 ![Matplitlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=matplotlib&logoColor=white)
+
+<br>
+<br>
+
