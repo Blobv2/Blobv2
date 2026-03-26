@@ -3,6 +3,8 @@
 ### 📊 [DataBase — DISC Profiles API](https://github.com/HarunHursid/Mandatory-2-DB)
 A full-stack **multi-database ASP.NET Core Web API** for managing DISC personality profiles across an organization — built as a mandatory database exam project. The system stores and mirrors data across three different database engines simultaneously: **SQL Server**, **MongoDB**, and **Neo4j**.
 
+---
+
 📚 About DISC
 **DISC** is a behaviour assessment model identifying four personality types:
 | Type | Colour | Trait |
@@ -13,6 +15,7 @@ A full-stack **multi-database ASP.NET Core Web API** for managing DISC personali
 | **C** — Conscientiousness | 🔵 Blue | Analytical, detail-oriented |
 This system helps organisations match employees to projects and social events based on their personality type.
 
+---
 
 ## 📦 Tech Stack
 | Layer | Technology |
@@ -27,8 +30,9 @@ This system helps organisations match employees to projects and social events ba
 | API Docs | Swagger / OpenAPI |
 | Env Config | DotNetEnv |
 
-## ✨ Features
+---
 
+## ✨ Features
 🔐 **JWT Authentication** — register, login, role-based authorization (`Admin` / `Employee`)
 - 🗄️ **SQL Server** — full relational model with Entity Framework Core
 - 🍃 **MongoDB Atlas** — mirrored document store for all entities
@@ -38,30 +42,25 @@ This system helps organisations match employees to projects and social events ba
 - 🖥️ **Built-in frontend** — static HTML pages (login, employee dashboard, admin panel, profile page)
 - 📄 **Swagger UI** — interactive API documentation with JWT support
 
-
-
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
 ![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=flat&logo=neo4j&logoColor=white)
 
-
-
-
-
+<br>
+<br>
 
 
 ### 📊 [Top up - Software Developer - AAI](https://github.com/HarunHursid/AI_Eksamen)
 
 # 🏎️ AI Eksamen — Autonomous Racing Car
-
 An AI exam project comparing three learning strategies for training a self-driving racing car in a custom **Pygame** simulation: a **Genetic Algorithm (NEAT)**, a **Deep Reinforcement Learning (DDQN)** agent, and a **Hybrid** approach that combines both.
 
 ---
 
 ## 🎬 Overview
-
 A car equipped with 5 radar sensors learns to navigate a closed race track through 10 checkpoints and back to the finish line. Three separate AI approaches are trained independently and then evaluated head-to-head on a separate test track.
 
+---
 
 ## ✨ Approaches
 
@@ -88,7 +87,6 @@ A car equipped with 5 radar sensors learns to navigate a closed race track throu
 ---
 
 ## 📦 Tech Stack
-
 | Component | Technology |
 |-----------|-----------|
 | Simulation | Pygame |
@@ -98,8 +96,6 @@ A car equipped with 5 radar sensors learns to navigate a closed race track throu
 | Image processing | scikit-image |
 | Package manager | uv |
 | Language | Python ≥ 3.13 |
-
-
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white).
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white).
