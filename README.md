@@ -15,3 +15,8 @@ A multi-database .NET Web API for managing DISC personality profiles across an o
 - Graph-based employee relationship mirroring
 - Stress tracking and task evaluation
 - Social event recommendations based on DISC profiles
+
+
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=flat&logo=neo4j&logoColor=white)
