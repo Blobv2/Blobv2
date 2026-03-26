@@ -2,7 +2,8 @@
 
 ### 📊 [Top up - Software Developer - Database — DISC Profiles API](https://github.com/HarunHursid/Mandatory-2-DB)
 A full-stack **multi-database ASP.NET Core Web API** for managing DISC personality profiles across an organization — built as a mandatory database exam project. The system stores and mirrors data across three different database engines simultaneously: **SQL Server**, **MongoDB**, and **Neo4j**.
-[![DB Report](https://img.shields.io/badge/AI_Report-View_PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](DB - Disc Rapport.pdf)
+
+####[![DB Report](https://img.shields.io/badge/DB_Report-View_PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](DB - Disc Rapport.pdf)
 
 📚 About DISC
 **DISC** is a behaviour assessment model identifying four personality types:
