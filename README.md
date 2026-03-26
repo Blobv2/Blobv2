@@ -3,7 +3,9 @@
 ### 📊 [Top up - Software Developer - Database — DISC Profiles API](https://github.com/HarunHursid/Mandatory-2-DB)
 A full-stack **multi-database ASP.NET Core Web API** for managing DISC personality profiles across an organization — built as a mandatory database exam project. The system stores and mirrors data across three different database engines simultaneously: **SQL Server**, **MongoDB**, and **Neo4j**.
 
-![DB-DiscRapport](https://img.shields.io/badge/📄_DB--DiscRapport-View_PDF-0078D4?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)
+<a href="DB-DiscRapport.pdf">
+  <img src="https://img.shields.io/badge/📄_DB--DiscRapport-View_PDF-0078D4?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="View DB-DiscRapport PDF"/>
+</a>
 
 📚 About DISC
 **DISC** is a behaviour assessment model identifying four personality types:
@@ -53,7 +55,9 @@ This system helps organisations match employees to projects and social events ba
 
 ## 📊 [Top up - Software Developer - AAI](https://github.com/HarunHursid/AI_Eksamen)
 
-![AI Report](https://img.shields.io/badge/📄_AI_Report-View_PDF-FF0000?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)
+<a href="AI-Report.pdf">
+  <img src="https://img.shields.io/badge/📄_AI_Report-View_PDF-FF0000?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="View AI Report PDF"/>
+</a>
 
 ## 🏎️ AI Eksamen — Autonomous Racing Car
 An AI exam project comparing three learning strategies for training a self-driving racing car in a custom **Pygame** simulation: a **Genetic Algorithm (NEAT)**, a **Deep Reinforcement Learning (DDQN)** agent, and a **Hybrid** approach that combines both.
