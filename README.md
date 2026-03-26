@@ -51,6 +51,8 @@ This system helps organisations match employees to projects and social events ba
 
 # 📊 [Top up - Software Developer - AAI](https://github.com/HarunHursid/AI_Eksamen)
 
+### [![Download AI article](https://img.shields.io/badge/Download-AI_Report-red?logo=adobeacrobatreader)](./docs/ai-report.pdf)
+
 ## 🏎️ AI Eksamen — Autonomous Racing Car
 An AI exam project comparing three learning strategies for training a self-driving racing car in a custom **Pygame** simulation: a **Genetic Algorithm (NEAT)**, a **Deep Reinforcement Learning (DDQN)** agent, and a **Hybrid** approach that combines both.
 
