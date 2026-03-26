@@ -100,11 +100,11 @@ A car equipped with 5 radar sensors learns to navigate a closed race track throu
 | Language | Python ≥ 3.13 |
 
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white">
-<img src="https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white">
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white">
-<img src="https://img.shields.io/badge/Pygame-000000?style=flat&logo=pygame&logoColor=white">
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white">
-<img src="https://img.shields.io/badge/NEAT--Python-76B900?style=flat&logo=dna&logoColor=white">
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=matplotlib&logoColor=white">
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white).
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white).
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white).
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white).
+![Pygane](https://img.shields.io/badge/Pygame-000000?style=flat&logo=pygame&logoColor=white).
+![Jupyter](ttps://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white).
+![NEAT](https://img.shields.io/badge/NEAT--Python-76B900?style=flat&logo=dna&logoColor=white).
+![Matplitlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=matplotlib&logoColor=white)
